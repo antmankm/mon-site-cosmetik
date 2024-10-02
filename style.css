@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'poppins' sans-serif;
+}
+
+.hero{
+    background-image: url('https://img.freepik.com/premium-photo/darkskinned-woman-beauticians-office-will-receive-spa-treatment-her-face_1106939-134913.jpg?w=900');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    color:white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    span{
+        color: blue;
+    }
+
+    .hero h2{
+        font-size: 4rem;
+        font-style: italic;
+        font-weight: lighter;
+    }
+
